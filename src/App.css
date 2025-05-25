@@ -40,3 +40,16 @@
 .read-the-docs {
   color: #888;
 }
+
+.componentsWrap {
+  box-sizing: border-box;
+  display: flex;
+  gap: 16px;
+  flex-direction: column;
+  width: 320px;
+}
+
+.componentsAllWrap {
+  display: flex;
+  gap: 16px;
+}
